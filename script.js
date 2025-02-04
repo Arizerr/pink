@@ -10,7 +10,6 @@
     "Ok fine, I will stop asking...",
     "Just kidding, say yes please! ❤️"
 ];*/
-
 const messages = [
     "km yakin nih? 🥺",
     "beneran yakin?? 😳",
